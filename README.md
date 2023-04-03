@@ -1,4 +1,4 @@
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Captura de tela 2023-04-03 185756](https://user-images.githubusercontent.com/86444781/229637173-8d570551-7539-42d2-9c78-38f48ea26dde.png)
 
 Acesso: https://elc1090.github.io/project1-glhrmrg/
 
